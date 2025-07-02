@@ -3,7 +3,7 @@
 A modern, responsive portfolio website showcasing my journey as a Computer Science student, Full Stack Developer, and Content Creator.
 
 ## 🚀 Live Demo
-[View Live Site](https://your-portfolio-url.netlify.app)
+[View Live Site](https://abhaygupta-portfolio.netlify.app/)
 
 ## 🏆 Highlights
 - **7+ Hackathon Wins** including 1st place at MIET Hackathon 2024
